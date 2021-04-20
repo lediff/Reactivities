@@ -1,0 +1,17 @@
+/Users/jorgenandersson/Fuskkod/Reactivities/Application/bin/Debug/net5.0/Application.deps.json
+/Users/jorgenandersson/Fuskkod/Reactivities/Application/bin/Debug/net5.0/Application.dll
+/Users/jorgenandersson/Fuskkod/Reactivities/Application/bin/Debug/net5.0/ref/Application.dll
+/Users/jorgenandersson/Fuskkod/Reactivities/Application/bin/Debug/net5.0/Application.pdb
+/Users/jorgenandersson/Fuskkod/Reactivities/Application/bin/Debug/net5.0/Domain.dll
+/Users/jorgenandersson/Fuskkod/Reactivities/Application/bin/Debug/net5.0/Persistence.dll
+/Users/jorgenandersson/Fuskkod/Reactivities/Application/bin/Debug/net5.0/Persistence.pdb
+/Users/jorgenandersson/Fuskkod/Reactivities/Application/bin/Debug/net5.0/Domain.pdb
+/Users/jorgenandersson/Fuskkod/Reactivities/Application/obj/Debug/net5.0/Application.csprojAssemblyReference.cache
+/Users/jorgenandersson/Fuskkod/Reactivities/Application/obj/Debug/net5.0/Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jorgenandersson/Fuskkod/Reactivities/Application/obj/Debug/net5.0/Application.AssemblyInfoInputs.cache
+/Users/jorgenandersson/Fuskkod/Reactivities/Application/obj/Debug/net5.0/Application.AssemblyInfo.cs
+/Users/jorgenandersson/Fuskkod/Reactivities/Application/obj/Debug/net5.0/Application.csproj.CoreCompileInputs.cache
+/Users/jorgenandersson/Fuskkod/Reactivities/Application/obj/Debug/net5.0/Application.csproj.CopyComplete
+/Users/jorgenandersson/Fuskkod/Reactivities/Application/obj/Debug/net5.0/Application.dll
+/Users/jorgenandersson/Fuskkod/Reactivities/Application/obj/Debug/net5.0/ref/Application.dll
+/Users/jorgenandersson/Fuskkod/Reactivities/Application/obj/Debug/net5.0/Application.pdb

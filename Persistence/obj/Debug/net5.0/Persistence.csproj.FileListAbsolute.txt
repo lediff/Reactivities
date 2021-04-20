@@ -1,0 +1,15 @@
+/Users/jorgenandersson/Fuskkod/Reactivities/Persistence/bin/Debug/net5.0/Persistence.deps.json
+/Users/jorgenandersson/Fuskkod/Reactivities/Persistence/bin/Debug/net5.0/Persistence.dll
+/Users/jorgenandersson/Fuskkod/Reactivities/Persistence/bin/Debug/net5.0/ref/Persistence.dll
+/Users/jorgenandersson/Fuskkod/Reactivities/Persistence/bin/Debug/net5.0/Persistence.pdb
+/Users/jorgenandersson/Fuskkod/Reactivities/Persistence/bin/Debug/net5.0/Domain.dll
+/Users/jorgenandersson/Fuskkod/Reactivities/Persistence/bin/Debug/net5.0/Domain.pdb
+/Users/jorgenandersson/Fuskkod/Reactivities/Persistence/obj/Debug/net5.0/Persistence.csprojAssemblyReference.cache
+/Users/jorgenandersson/Fuskkod/Reactivities/Persistence/obj/Debug/net5.0/Persistence.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jorgenandersson/Fuskkod/Reactivities/Persistence/obj/Debug/net5.0/Persistence.AssemblyInfoInputs.cache
+/Users/jorgenandersson/Fuskkod/Reactivities/Persistence/obj/Debug/net5.0/Persistence.AssemblyInfo.cs
+/Users/jorgenandersson/Fuskkod/Reactivities/Persistence/obj/Debug/net5.0/Persistence.csproj.CoreCompileInputs.cache
+/Users/jorgenandersson/Fuskkod/Reactivities/Persistence/obj/Debug/net5.0/Persistence.csproj.CopyComplete
+/Users/jorgenandersson/Fuskkod/Reactivities/Persistence/obj/Debug/net5.0/Persistence.dll
+/Users/jorgenandersson/Fuskkod/Reactivities/Persistence/obj/Debug/net5.0/ref/Persistence.dll
+/Users/jorgenandersson/Fuskkod/Reactivities/Persistence/obj/Debug/net5.0/Persistence.pdb
