@@ -1,14 +1,17 @@
 {
   "version": 2,
-  "dgSpecHash": "Cb07osIX/zRhTy/pnc1A+2l5DW5dZAE50DHo8tMSbcpiwFNCdpmE1BjWWH7sfetdBOScWZSJjdSth1aUGpiw5A==",
+  "dgSpecHash": "xteuENgI5MDhZMoVR/C5hIWxrVnDeUjs1dUU67GcCUbWHQwgaPVbwNdmaAtjv5oVb5ocIzkOvVc9k2InZzIQcA==",
   "success": true,
   "projectFilePath": "/Users/jorgenandersson/Fuskkod/Reactivities/API/API.csproj",
   "expectedPackageFiles": [
+    "/Users/jorgenandersson/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
+    "/Users/jorgenandersson/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
     "/Users/jorgenandersson/.nuget/packages/microsoft.data.sqlite.core/5.0.5/microsoft.data.sqlite.core.5.0.5.nupkg.sha512",
     "/Users/jorgenandersson/.nuget/packages/microsoft.dotnet.platformabstractions/3.1.6/microsoft.dotnet.platformabstractions.3.1.6.nupkg.sha512",
     "/Users/jorgenandersson/.nuget/packages/microsoft.entityframeworkcore/5.0.5/microsoft.entityframeworkcore.5.0.5.nupkg.sha512",
     "/Users/jorgenandersson/.nuget/packages/microsoft.entityframeworkcore.abstractions/5.0.5/microsoft.entityframeworkcore.abstractions.5.0.5.nupkg.sha512",
     "/Users/jorgenandersson/.nuget/packages/microsoft.entityframeworkcore.analyzers/5.0.5/microsoft.entityframeworkcore.analyzers.5.0.5.nupkg.sha512",
+    "/Users/jorgenandersson/.nuget/packages/microsoft.entityframeworkcore.design/5.0.5/microsoft.entityframeworkcore.design.5.0.5.nupkg.sha512",
     "/Users/jorgenandersson/.nuget/packages/microsoft.entityframeworkcore.relational/5.0.5/microsoft.entityframeworkcore.relational.5.0.5.nupkg.sha512",
     "/Users/jorgenandersson/.nuget/packages/microsoft.entityframeworkcore.sqlite/5.0.5/microsoft.entityframeworkcore.sqlite.5.0.5.nupkg.sha512",
     "/Users/jorgenandersson/.nuget/packages/microsoft.entityframeworkcore.sqlite.core/5.0.5/microsoft.entityframeworkcore.sqlite.core.5.0.5.nupkg.sha512",
