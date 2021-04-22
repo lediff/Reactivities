@@ -494,6 +494,7 @@
         "framework": ".NETCoreApp,Version=v5.0",
         "dependencies": {
           "Domain": "1.0.0",
+          "Microsoft.EntityFrameworkCore": "5.0.5",
           "Microsoft.EntityFrameworkCore.Sqlite": "5.0.5"
         },
         "compile": {
@@ -1308,19 +1309,19 @@
     ]
   },
   "packageFolders": {
-    "/Users/jorgenandersson/.nuget/packages/": {}
+    "/Users/diffen/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/jorgenandersson/Fuskkod/Reactivities/API/API.csproj",
+      "projectUniqueName": "/Users/diffen/Documents/Dotnet/Reactivities/API/API.csproj",
       "projectName": "API",
-      "projectPath": "/Users/jorgenandersson/Fuskkod/Reactivities/API/API.csproj",
-      "packagesPath": "/Users/jorgenandersson/.nuget/packages/",
-      "outputPath": "/Users/jorgenandersson/Fuskkod/Reactivities/API/obj/",
+      "projectPath": "/Users/diffen/Documents/Dotnet/Reactivities/API/API.csproj",
+      "packagesPath": "/Users/diffen/.nuget/packages/",
+      "outputPath": "/Users/diffen/Documents/Dotnet/Reactivities/API/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/jorgenandersson/.nuget/NuGet/NuGet.Config"
+        "/Users/diffen/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
@@ -1332,8 +1333,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "/Users/jorgenandersson/Fuskkod/Reactivities/Application/Application.csproj": {
-              "projectPath": "/Users/jorgenandersson/Fuskkod/Reactivities/Application/Application.csproj"
+            "/Users/diffen/Documents/Dotnet/Reactivities/Application/Application.csproj": {
+              "projectPath": "/Users/diffen/Documents/Dotnet/Reactivities/Application/Application.csproj"
             }
           }
         }

@@ -10,3 +10,15 @@
 /Users/jorgenandersson/Fuskkod/Reactivities/Domain/obj/Debug/net5.0/Domain.dll
 /Users/jorgenandersson/Fuskkod/Reactivities/Domain/obj/Debug/net5.0/ref/Domain.dll
 /Users/jorgenandersson/Fuskkod/Reactivities/Domain/obj/Debug/net5.0/Domain.pdb
+/Users/diffen/Documents/Dotnet/Reactivities/Domain/bin/Debug/net5.0/Domain.deps.json
+/Users/diffen/Documents/Dotnet/Reactivities/Domain/bin/Debug/net5.0/Domain.dll
+/Users/diffen/Documents/Dotnet/Reactivities/Domain/bin/Debug/net5.0/ref/Domain.dll
+/Users/diffen/Documents/Dotnet/Reactivities/Domain/bin/Debug/net5.0/Domain.pdb
+/Users/diffen/Documents/Dotnet/Reactivities/Domain/obj/Debug/net5.0/Domain.csprojAssemblyReference.cache
+/Users/diffen/Documents/Dotnet/Reactivities/Domain/obj/Debug/net5.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/diffen/Documents/Dotnet/Reactivities/Domain/obj/Debug/net5.0/Domain.AssemblyInfoInputs.cache
+/Users/diffen/Documents/Dotnet/Reactivities/Domain/obj/Debug/net5.0/Domain.AssemblyInfo.cs
+/Users/diffen/Documents/Dotnet/Reactivities/Domain/obj/Debug/net5.0/Domain.csproj.CoreCompileInputs.cache
+/Users/diffen/Documents/Dotnet/Reactivities/Domain/obj/Debug/net5.0/Domain.dll
+/Users/diffen/Documents/Dotnet/Reactivities/Domain/obj/Debug/net5.0/ref/Domain.dll
+/Users/diffen/Documents/Dotnet/Reactivities/Domain/obj/Debug/net5.0/Domain.pdb

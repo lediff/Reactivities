@@ -949,23 +949,24 @@
   "projectFileDependencyGroups": {
     "net5.0": [
       "Domain >= 1.0.0",
+      "Microsoft.EntityFrameworkCore >= 5.0.5",
       "Microsoft.EntityFrameworkCore.Sqlite >= 5.0.5"
     ]
   },
   "packageFolders": {
-    "/Users/jorgenandersson/.nuget/packages/": {}
+    "/Users/diffen/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/jorgenandersson/Fuskkod/Reactivities/Persistence/Persistence.csproj",
+      "projectUniqueName": "/Users/diffen/Documents/Dotnet/Reactivities/Persistence/Persistence.csproj",
       "projectName": "Persistence",
-      "projectPath": "/Users/jorgenandersson/Fuskkod/Reactivities/Persistence/Persistence.csproj",
-      "packagesPath": "/Users/jorgenandersson/.nuget/packages/",
-      "outputPath": "/Users/jorgenandersson/Fuskkod/Reactivities/Persistence/obj/",
+      "projectPath": "/Users/diffen/Documents/Dotnet/Reactivities/Persistence/Persistence.csproj",
+      "packagesPath": "/Users/diffen/.nuget/packages/",
+      "outputPath": "/Users/diffen/Documents/Dotnet/Reactivities/Persistence/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/jorgenandersson/.nuget/NuGet/NuGet.Config"
+        "/Users/diffen/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
@@ -977,8 +978,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "/Users/jorgenandersson/Fuskkod/Reactivities/Domain/Domain.csproj": {
-              "projectPath": "/Users/jorgenandersson/Fuskkod/Reactivities/Domain/Domain.csproj"
+            "/Users/diffen/Documents/Dotnet/Reactivities/Domain/Domain.csproj": {
+              "projectPath": "/Users/diffen/Documents/Dotnet/Reactivities/Domain/Domain.csproj"
             }
           }
         }
@@ -993,6 +994,10 @@
       "net5.0": {
         "targetAlias": "net5.0",
         "dependencies": {
+          "Microsoft.EntityFrameworkCore": {
+            "target": "Package",
+            "version": "[5.0.5, )"
+          },
           "Microsoft.EntityFrameworkCore.Sqlite": {
             "target": "Package",
             "version": "[5.0.5, )"

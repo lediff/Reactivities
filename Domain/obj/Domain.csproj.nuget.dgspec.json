@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/jorgenandersson/Fuskkod/Reactivities/Domain/Domain.csproj": {}
+    "/Users/diffen/Documents/Dotnet/Reactivities/Domain/Domain.csproj": {}
   },
   "projects": {
-    "/Users/jorgenandersson/Fuskkod/Reactivities/Domain/Domain.csproj": {
+    "/Users/diffen/Documents/Dotnet/Reactivities/Domain/Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/jorgenandersson/Fuskkod/Reactivities/Domain/Domain.csproj",
+        "projectUniqueName": "/Users/diffen/Documents/Dotnet/Reactivities/Domain/Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "/Users/jorgenandersson/Fuskkod/Reactivities/Domain/Domain.csproj",
-        "packagesPath": "/Users/jorgenandersson/.nuget/packages/",
-        "outputPath": "/Users/jorgenandersson/Fuskkod/Reactivities/Domain/obj/",
+        "projectPath": "/Users/diffen/Documents/Dotnet/Reactivities/Domain/Domain.csproj",
+        "packagesPath": "/Users/diffen/.nuget/packages/",
+        "outputPath": "/Users/diffen/Documents/Dotnet/Reactivities/Domain/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/jorgenandersson/.nuget/NuGet/NuGet.Config"
+          "/Users/diffen/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
