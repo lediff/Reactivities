@@ -959,11 +959,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/diffen/Documents/Dotnet/Reactivities/Persistence/Persistence.csproj",
+      "projectUniqueName": "/Users/diffen/Reactivities/Persistence/Persistence.csproj",
       "projectName": "Persistence",
-      "projectPath": "/Users/diffen/Documents/Dotnet/Reactivities/Persistence/Persistence.csproj",
+      "projectPath": "/Users/diffen/Reactivities/Persistence/Persistence.csproj",
       "packagesPath": "/Users/diffen/.nuget/packages/",
-      "outputPath": "/Users/diffen/Documents/Dotnet/Reactivities/Persistence/obj/",
+      "outputPath": "/Users/diffen/Reactivities/Persistence/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/diffen/.nuget/NuGet/NuGet.Config"
@@ -978,8 +978,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "/Users/diffen/Documents/Dotnet/Reactivities/Domain/Domain.csproj": {
-              "projectPath": "/Users/diffen/Documents/Dotnet/Reactivities/Domain/Domain.csproj"
+            "/Users/diffen/Reactivities/Domain/Domain.csproj": {
+              "projectPath": "/Users/diffen/Reactivities/Domain/Domain.csproj"
             }
           }
         }

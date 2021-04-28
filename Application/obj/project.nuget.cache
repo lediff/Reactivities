@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "LM1pFTazOjz3XmP65HXRfJi/MlHDJcg9tP3NlQb5GPxt/Nx8PA1L1v16IMOw839wpsxMxVrOCJdXCkG9x/tVQA==",
+  "dgSpecHash": "hkVfPvkoZzI4p04bbYCELeEJoBu7sA363FoZvv8e5WGsIk+UFip61LWGgeAYEUeaCyuI0yUT7k3Itxyq+XI5QQ==",
   "success": true,
-  "projectFilePath": "/Users/diffen/Documents/Dotnet/Reactivities/Application/Application.csproj",
+  "projectFilePath": "/Users/diffen/Reactivities/Application/Application.csproj",
   "expectedPackageFiles": [
+    "/Users/diffen/.nuget/packages/mediatr/9.0.0/mediatr.9.0.0.nupkg.sha512",
+    "/Users/diffen/.nuget/packages/mediatr.extensions.microsoft.dependencyinjection/9.0.0/mediatr.extensions.microsoft.dependencyinjection.9.0.0.nupkg.sha512",
     "/Users/diffen/.nuget/packages/microsoft.data.sqlite.core/5.0.5/microsoft.data.sqlite.core.5.0.5.nupkg.sha512",
     "/Users/diffen/.nuget/packages/microsoft.dotnet.platformabstractions/3.1.6/microsoft.dotnet.platformabstractions.3.1.6.nupkg.sha512",
     "/Users/diffen/.nuget/packages/microsoft.entityframeworkcore/5.0.5/microsoft.entityframeworkcore.5.0.5.nupkg.sha512",

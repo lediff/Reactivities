@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/diffen/Documents/Dotnet/Reactivities/API/API.csproj": {}
+    "/Users/diffen/Reactivities/API/API.csproj": {}
   },
   "projects": {
-    "/Users/diffen/Documents/Dotnet/Reactivities/API/API.csproj": {
+    "/Users/diffen/Reactivities/API/API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/diffen/Documents/Dotnet/Reactivities/API/API.csproj",
+        "projectUniqueName": "/Users/diffen/Reactivities/API/API.csproj",
         "projectName": "API",
-        "projectPath": "/Users/diffen/Documents/Dotnet/Reactivities/API/API.csproj",
+        "projectPath": "/Users/diffen/Reactivities/API/API.csproj",
         "packagesPath": "/Users/diffen/.nuget/packages/",
-        "outputPath": "/Users/diffen/Documents/Dotnet/Reactivities/API/obj/",
+        "outputPath": "/Users/diffen/Reactivities/API/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/diffen/.nuget/NuGet/NuGet.Config"
@@ -26,8 +26,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "/Users/diffen/Documents/Dotnet/Reactivities/Application/Application.csproj": {
-                "projectPath": "/Users/diffen/Documents/Dotnet/Reactivities/Application/Application.csproj"
+              "/Users/diffen/Reactivities/Application/Application.csproj": {
+                "projectPath": "/Users/diffen/Reactivities/Application/Application.csproj"
               }
             }
           }
@@ -75,14 +75,14 @@
         }
       }
     },
-    "/Users/diffen/Documents/Dotnet/Reactivities/Application/Application.csproj": {
+    "/Users/diffen/Reactivities/Application/Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/diffen/Documents/Dotnet/Reactivities/Application/Application.csproj",
+        "projectUniqueName": "/Users/diffen/Reactivities/Application/Application.csproj",
         "projectName": "Application",
-        "projectPath": "/Users/diffen/Documents/Dotnet/Reactivities/Application/Application.csproj",
+        "projectPath": "/Users/diffen/Reactivities/Application/Application.csproj",
         "packagesPath": "/Users/diffen/.nuget/packages/",
-        "outputPath": "/Users/diffen/Documents/Dotnet/Reactivities/Application/obj/",
+        "outputPath": "/Users/diffen/Reactivities/Application/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/diffen/.nuget/NuGet/NuGet.Config"
@@ -97,11 +97,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "/Users/diffen/Documents/Dotnet/Reactivities/Domain/Domain.csproj": {
-                "projectPath": "/Users/diffen/Documents/Dotnet/Reactivities/Domain/Domain.csproj"
+              "/Users/diffen/Reactivities/Domain/Domain.csproj": {
+                "projectPath": "/Users/diffen/Reactivities/Domain/Domain.csproj"
               },
-              "/Users/diffen/Documents/Dotnet/Reactivities/Persistence/Persistence.csproj": {
-                "projectPath": "/Users/diffen/Documents/Dotnet/Reactivities/Persistence/Persistence.csproj"
+              "/Users/diffen/Reactivities/Persistence/Persistence.csproj": {
+                "projectPath": "/Users/diffen/Reactivities/Persistence/Persistence.csproj"
               }
             }
           }
@@ -115,6 +115,12 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
+          "dependencies": {
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -134,14 +140,14 @@
         }
       }
     },
-    "/Users/diffen/Documents/Dotnet/Reactivities/Domain/Domain.csproj": {
+    "/Users/diffen/Reactivities/Domain/Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/diffen/Documents/Dotnet/Reactivities/Domain/Domain.csproj",
+        "projectUniqueName": "/Users/diffen/Reactivities/Domain/Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "/Users/diffen/Documents/Dotnet/Reactivities/Domain/Domain.csproj",
+        "projectPath": "/Users/diffen/Reactivities/Domain/Domain.csproj",
         "packagesPath": "/Users/diffen/.nuget/packages/",
-        "outputPath": "/Users/diffen/Documents/Dotnet/Reactivities/Domain/obj/",
+        "outputPath": "/Users/diffen/Reactivities/Domain/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/diffen/.nuget/NuGet/NuGet.Config"
@@ -186,14 +192,14 @@
         }
       }
     },
-    "/Users/diffen/Documents/Dotnet/Reactivities/Persistence/Persistence.csproj": {
+    "/Users/diffen/Reactivities/Persistence/Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/diffen/Documents/Dotnet/Reactivities/Persistence/Persistence.csproj",
+        "projectUniqueName": "/Users/diffen/Reactivities/Persistence/Persistence.csproj",
         "projectName": "Persistence",
-        "projectPath": "/Users/diffen/Documents/Dotnet/Reactivities/Persistence/Persistence.csproj",
+        "projectPath": "/Users/diffen/Reactivities/Persistence/Persistence.csproj",
         "packagesPath": "/Users/diffen/.nuget/packages/",
-        "outputPath": "/Users/diffen/Documents/Dotnet/Reactivities/Persistence/obj/",
+        "outputPath": "/Users/diffen/Reactivities/Persistence/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/diffen/.nuget/NuGet/NuGet.Config"
@@ -208,8 +214,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "/Users/diffen/Documents/Dotnet/Reactivities/Domain/Domain.csproj": {
-                "projectPath": "/Users/diffen/Documents/Dotnet/Reactivities/Domain/Domain.csproj"
+              "/Users/diffen/Reactivities/Domain/Domain.csproj": {
+                "projectPath": "/Users/diffen/Reactivities/Domain/Domain.csproj"
               }
             }
           }

@@ -22,3 +22,15 @@
 /Users/diffen/Documents/Dotnet/Reactivities/Domain/obj/Debug/net5.0/Domain.dll
 /Users/diffen/Documents/Dotnet/Reactivities/Domain/obj/Debug/net5.0/ref/Domain.dll
 /Users/diffen/Documents/Dotnet/Reactivities/Domain/obj/Debug/net5.0/Domain.pdb
+/Users/diffen/Reactivities/Domain/bin/Debug/net5.0/Domain.deps.json
+/Users/diffen/Reactivities/Domain/bin/Debug/net5.0/Domain.dll
+/Users/diffen/Reactivities/Domain/bin/Debug/net5.0/ref/Domain.dll
+/Users/diffen/Reactivities/Domain/bin/Debug/net5.0/Domain.pdb
+/Users/diffen/Reactivities/Domain/obj/Debug/net5.0/Domain.csprojAssemblyReference.cache
+/Users/diffen/Reactivities/Domain/obj/Debug/net5.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/diffen/Reactivities/Domain/obj/Debug/net5.0/Domain.AssemblyInfoInputs.cache
+/Users/diffen/Reactivities/Domain/obj/Debug/net5.0/Domain.AssemblyInfo.cs
+/Users/diffen/Reactivities/Domain/obj/Debug/net5.0/Domain.csproj.CoreCompileInputs.cache
+/Users/diffen/Reactivities/Domain/obj/Debug/net5.0/Domain.dll
+/Users/diffen/Reactivities/Domain/obj/Debug/net5.0/ref/Domain.dll
+/Users/diffen/Reactivities/Domain/obj/Debug/net5.0/Domain.pdb

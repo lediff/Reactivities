@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/diffen/Documents/Dotnet/Reactivities/Domain/Domain.csproj",
+      "projectUniqueName": "/Users/diffen/Reactivities/Domain/Domain.csproj",
       "projectName": "Domain",
-      "projectPath": "/Users/diffen/Documents/Dotnet/Reactivities/Domain/Domain.csproj",
+      "projectPath": "/Users/diffen/Reactivities/Domain/Domain.csproj",
       "packagesPath": "/Users/diffen/.nuget/packages/",
-      "outputPath": "/Users/diffen/Documents/Dotnet/Reactivities/Domain/obj/",
+      "outputPath": "/Users/diffen/Reactivities/Domain/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/diffen/.nuget/NuGet/NuGet.Config"
