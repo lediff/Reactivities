@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/jorgenandersson/Fuskkod/Reactivities/Application/Application.csproj": {}
+    "/Users/diffen/Reactivities/Application/Application.csproj": {}
   },
   "projects": {
-    "/Users/jorgenandersson/Fuskkod/Reactivities/Application/Application.csproj": {
+    "/Users/diffen/Reactivities/Application/Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/jorgenandersson/Fuskkod/Reactivities/Application/Application.csproj",
+        "projectUniqueName": "/Users/diffen/Reactivities/Application/Application.csproj",
         "projectName": "Application",
-        "projectPath": "/Users/jorgenandersson/Fuskkod/Reactivities/Application/Application.csproj",
-        "packagesPath": "/Users/jorgenandersson/.nuget/packages/",
-        "outputPath": "/Users/jorgenandersson/Fuskkod/Reactivities/Application/obj/",
+        "projectPath": "/Users/diffen/Reactivities/Application/Application.csproj",
+        "packagesPath": "/Users/diffen/.nuget/packages/",
+        "outputPath": "/Users/diffen/Reactivities/Application/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/jorgenandersson/.nuget/NuGet/NuGet.Config"
+          "/Users/diffen/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -26,11 +26,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "/Users/jorgenandersson/Fuskkod/Reactivities/Domain/Domain.csproj": {
-                "projectPath": "/Users/jorgenandersson/Fuskkod/Reactivities/Domain/Domain.csproj"
+              "/Users/diffen/Reactivities/Domain/Domain.csproj": {
+                "projectPath": "/Users/diffen/Reactivities/Domain/Domain.csproj"
               },
-              "/Users/jorgenandersson/Fuskkod/Reactivities/Persistence/Persistence.csproj": {
-                "projectPath": "/Users/jorgenandersson/Fuskkod/Reactivities/Persistence/Persistence.csproj"
+              "/Users/diffen/Reactivities/Persistence/Persistence.csproj": {
+                "projectPath": "/Users/diffen/Reactivities/Persistence/Persistence.csproj"
               }
             }
           }
@@ -44,6 +44,12 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
+          "dependencies": {
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -63,17 +69,17 @@
         }
       }
     },
-    "/Users/jorgenandersson/Fuskkod/Reactivities/Domain/Domain.csproj": {
+    "/Users/diffen/Reactivities/Domain/Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/jorgenandersson/Fuskkod/Reactivities/Domain/Domain.csproj",
+        "projectUniqueName": "/Users/diffen/Reactivities/Domain/Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "/Users/jorgenandersson/Fuskkod/Reactivities/Domain/Domain.csproj",
-        "packagesPath": "/Users/jorgenandersson/.nuget/packages/",
-        "outputPath": "/Users/jorgenandersson/Fuskkod/Reactivities/Domain/obj/",
+        "projectPath": "/Users/diffen/Reactivities/Domain/Domain.csproj",
+        "packagesPath": "/Users/diffen/.nuget/packages/",
+        "outputPath": "/Users/diffen/Reactivities/Domain/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/jorgenandersson/.nuget/NuGet/NuGet.Config"
+          "/Users/diffen/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -115,17 +121,17 @@
         }
       }
     },
-    "/Users/jorgenandersson/Fuskkod/Reactivities/Persistence/Persistence.csproj": {
+    "/Users/diffen/Reactivities/Persistence/Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/jorgenandersson/Fuskkod/Reactivities/Persistence/Persistence.csproj",
+        "projectUniqueName": "/Users/diffen/Reactivities/Persistence/Persistence.csproj",
         "projectName": "Persistence",
-        "projectPath": "/Users/jorgenandersson/Fuskkod/Reactivities/Persistence/Persistence.csproj",
-        "packagesPath": "/Users/jorgenandersson/.nuget/packages/",
-        "outputPath": "/Users/jorgenandersson/Fuskkod/Reactivities/Persistence/obj/",
+        "projectPath": "/Users/diffen/Reactivities/Persistence/Persistence.csproj",
+        "packagesPath": "/Users/diffen/.nuget/packages/",
+        "outputPath": "/Users/diffen/Reactivities/Persistence/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/jorgenandersson/.nuget/NuGet/NuGet.Config"
+          "/Users/diffen/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -137,8 +143,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "/Users/jorgenandersson/Fuskkod/Reactivities/Domain/Domain.csproj": {
-                "projectPath": "/Users/jorgenandersson/Fuskkod/Reactivities/Domain/Domain.csproj"
+              "/Users/diffen/Reactivities/Domain/Domain.csproj": {
+                "projectPath": "/Users/diffen/Reactivities/Domain/Domain.csproj"
               }
             }
           }
