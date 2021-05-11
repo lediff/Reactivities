@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "1s8F85lDiraA+Vq2JUkAR9dXnkB+aBdyvn6HOBT8Qo55aPhnuy5i3cA+nNkZ+C7px53uk4MhNSfptN5xCOq1SQ==",
+  "dgSpecHash": "AdY7YuHQqCoHIyyvXC3PcX4SC0Sc4FT3iiSvD3FW1uV+lwvNj3ovnHW2c9W3B+OOeUWLh0rKAERbjoYe9+dxUw==",
   "success": true,
   "projectFilePath": "/Users/jorgenandersson/Fuskkod/Reactivities/Application/Application.csproj",
   "expectedPackageFiles": [
+    "/Users/jorgenandersson/.nuget/packages/mediatr/9.0.0/mediatr.9.0.0.nupkg.sha512",
+    "/Users/jorgenandersson/.nuget/packages/mediatr.extensions.microsoft.dependencyinjection/9.0.0/mediatr.extensions.microsoft.dependencyinjection.9.0.0.nupkg.sha512",
     "/Users/jorgenandersson/.nuget/packages/microsoft.data.sqlite.core/5.0.5/microsoft.data.sqlite.core.5.0.5.nupkg.sha512",
     "/Users/jorgenandersson/.nuget/packages/microsoft.dotnet.platformabstractions/3.1.6/microsoft.dotnet.platformabstractions.3.1.6.nupkg.sha512",
     "/Users/jorgenandersson/.nuget/packages/microsoft.entityframeworkcore/5.0.5/microsoft.entityframeworkcore.5.0.5.nupkg.sha512",

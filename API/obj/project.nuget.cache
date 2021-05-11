@@ -1,10 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "xteuENgI5MDhZMoVR/C5hIWxrVnDeUjs1dUU67GcCUbWHQwgaPVbwNdmaAtjv5oVb5ocIzkOvVc9k2InZzIQcA==",
+  "dgSpecHash": "AjIWNdaHEgSY+9sGiCobwB3BQbCi6wVCRVVzmMcFmkDbkUzCxQE4JEdCu7puT5/Y9Q527gXmhPV5g02ySwgP0w==",
   "success": true,
   "projectFilePath": "/Users/jorgenandersson/Fuskkod/Reactivities/API/API.csproj",
   "expectedPackageFiles": [
     "/Users/jorgenandersson/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
+    "/Users/jorgenandersson/.nuget/packages/mediatr/9.0.0/mediatr.9.0.0.nupkg.sha512",
+    "/Users/jorgenandersson/.nuget/packages/mediatr.extensions.microsoft.dependencyinjection/9.0.0/mediatr.extensions.microsoft.dependencyinjection.9.0.0.nupkg.sha512",
     "/Users/jorgenandersson/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
     "/Users/jorgenandersson/.nuget/packages/microsoft.data.sqlite.core/5.0.5/microsoft.data.sqlite.core.5.0.5.nupkg.sha512",
     "/Users/jorgenandersson/.nuget/packages/microsoft.dotnet.platformabstractions/3.1.6/microsoft.dotnet.platformabstractions.3.1.6.nupkg.sha512",
